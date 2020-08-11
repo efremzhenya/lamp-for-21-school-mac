@@ -12,7 +12,7 @@
 - `ln -s /goinfre/docker Library/com.docker.docker`
 
 Поднимаем сервер:
-- `git clone "этот репозиторий"`
+- `git clone https://github.com/efremzhenya/lamp-for-21-school-mac.git`
 - `docker-compose up -d`
 
 PhpMyAdmin [http://localhost:8000](http://localhost:8000)
